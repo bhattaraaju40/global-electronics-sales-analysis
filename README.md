@@ -24,3 +24,9 @@ The analysis focuses on answering key business questions such as:
 - How long did online orders take to deliver?
 - Which high-revenue products had relatively low profitability?
 - What business recommendations can be made from the analysis?
+
+## Tools & Technologies
+
+- **Python (Pandas)** — Cleaned, transformed, and validated the raw data before analysis
+- **PostgreSQL / SQL** — Built the database, joined the tables, calculated key business metrics, and answered the main business questions
+- **Tableau** — Built an interactive dashboard to show sales trends, product performance, profitability, and sales channel insights
