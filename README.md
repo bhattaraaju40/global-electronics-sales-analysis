@@ -82,6 +82,5 @@ Based on the analysis, the main recommendations are:
 - Review pricing, supplier costs, and product mix for high-revenue products that fall below the overall profit margin
 - Look for ways to grow **online sales**, since online and physical stores have similar profit margins but online revenue is much lower
 - Focus on retaining high-value customers and customers who place large orders
-- Pay attention to the **65+ customer group**, which generated the highest revenue among the age groups analyzed
+- Focus on retaining the **65+ customer group**, which generated the highest revenue among the age groups analyzed
 - Review online orders with unusually long delivery times to identify possible fulfillment issues
-- Treat 2021 separately in trend analysis because it contains only partial-year data
