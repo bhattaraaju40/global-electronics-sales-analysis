@@ -30,3 +30,17 @@ The analysis focuses on answering key business questions such as:
 - **Python (Pandas)** — Cleaned, transformed, and validated the raw data before analysis
 - **PostgreSQL / SQL** — Built the database, joined the tables, calculated key business metrics, and answered the main business questions
 - **Tableau** — Built an interactive dashboard to show sales trends, product performance, profitability, and sales channel performance
+
+## Data Preparation & Cleaning
+
+Before starting the analysis, the raw datasets were reviewed and cleaned in Python using Pandas.
+
+The main cleaning steps included:
+
+- Standardized column names for easier analysis
+- Converted date fields to datetime format
+- Cleaned price and cost columns by removing currency symbols and commas
+- Converted numeric fields to the correct data types
+- Checked for missing values and duplicates
+- Reviewed missing delivery dates and confirmed they were expected for physical store purchases
+- Validated the cleaned datasets before loading them into PostgreSQL
