@@ -44,3 +44,21 @@ The main cleaning steps included:
 - Checked for missing values and duplicates
 - Reviewed missing delivery dates and confirmed they were expected for physical store purchases
 - Validated the cleaned datasets before loading them into PostgreSQL
+
+## SQL Analysis
+
+After cleaning the data, the datasets were loaded into PostgreSQL for analysis.
+
+The SQL analysis covered:
+
+- Overall business performance, including revenue, cost, profit, quantity sold, total orders, profit margin, and average order value
+- Yearly and monthly sales trends, including revenue and profit growth over time
+- Category, subcategory, brand, and product performance
+- Country and store performance to understand where sales were strongest
+- Online vs physical store performance store performance across revenue, profit, orders, average order value, and profit margin
+- Top customers, customer groups, and largest individual orders
+- Customer performance by gender and age group
+- Average order value across different customer segments
+- Online delivery performance, including average, minimum, maximum, and median delivery time
+- High-revenue products with below-average profit margins
+- Business recommendations based on the findings
