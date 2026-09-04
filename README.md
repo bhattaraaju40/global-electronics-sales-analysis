@@ -69,7 +69,7 @@ The SQL analysis covered:
 - A total of **26,326 orders** were placed, with an average order value of **$2,117.89**
 - **Computers** was the strongest product category, generating the highest revenue and profit
 - Physical stores generated **$44.35M in revenue**, compared with **$11.40M from online sales**, while both channels maintained similar profit margins
-- Customers aged **65+** generated the most revenue among the age groups analyzed
+- Customers aged **65+** generated the highest revenue among the age groups analyzed
 - Online orders took about **5 days on average** to deliver, with some orders taking as long as **17 days**
 - Several high-revenue products were identified with profit margins below the company average, highlighting opportunities to review pricing, costs, or product mix
 - 2021 contains only partial-year data, so it was not treated as a complete year when reviewing the sales trend
