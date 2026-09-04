@@ -59,7 +59,7 @@ The SQL analysis covered:
 - Yearly and monthly sales trends, including revenue and profit growth over time
 - Category, subcategory, brand, and product performance
 - Country and store performance to understand where sales were strongest
-- Online vs physical store performance store performance across revenue, profit, orders, average order value, and profit margin
+- Online vs physical store performance across revenue, profit, orders, average order value, and profit margin
 - Top customers, customer groups, and largest individual orders
 - Customer performance by gender and age group
 - Average order value across different customer segments
