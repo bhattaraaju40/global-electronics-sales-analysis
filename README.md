@@ -73,3 +73,15 @@ The SQL analysis covered:
 - Online orders took about **5 days on average** to deliver, with some orders taking as long as **17 days**
 - Several high-revenue products were identified with profit margins below the company average, highlighting opportunities to review pricing, costs, or product mix
 - 2021 contains only partial-year data, so it was not treated as a complete year when reviewing the sales trend
+  
+## Business Recommendations
+
+Based on the analysis, the main recommendations are:
+
+- Continue prioritizing **Computers** and other high-performing categories that generate the most revenue and profit
+- Review pricing, supplier costs, and product mix for high-revenue products that fall below the overall profit margin
+- Look for ways to grow **online sales**, since online and physical stores have similar profit margins but online revenue is much lower
+- Focus on retaining high-value customers and customers who place large orders
+- Pay attention to the **65+ customer group**, which generated the highest revenue among the age groups analyzed
+- Review online orders with unusually long delivery times to identify possible fulfillment issues
+- Treat 2021 separately in trend analysis because it contains only partial-year data
