@@ -124,3 +124,10 @@ global-electronics-sales-analysis/
 │   └── Global Electronics Sales Dashboard.twbx
 │
 └── README.md
+```
+
+## Data Source
+
+The dataset used in this project is the **Global Electronics Retailer** dataset from [Maven Analytics](https://mavenanalytics.io/guided-projects/global-electronics-retailer).
+
+The original files include customer, product, sales, store, exchange rate, and data dictionary tables. The exchange rate table was reviewed but not used in the final analysis because product pricing and cost fields were already provided in USD.
