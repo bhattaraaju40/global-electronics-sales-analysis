@@ -88,3 +88,39 @@ Based on the analysis, the main recommendations are:
 - Focus on retaining high-value customers and customers who place large orders
 - Focus on retaining the **65+ customer group**, which generated the highest revenue among the age groups analyzed
 - Review online orders with unusually long delivery times to identify possible fulfillment issues
+
+
+## Project Structure
+
+```text
+global-electronics-sales-analysis/
+│
+├── data/
+│   ├── raw/
+│   │   ├── Customers.csv
+│   │   ├── Data_Dictionary.csv
+│   │   ├── Products.csv
+│   │   ├── Sales.csv
+│   │   └── Stores.csv
+│   │
+│   └── cleaned/
+│       ├── customers_clean.csv
+│       ├── products_clean.csv
+│       ├── sales_clean.csv
+│       └── stores_clean.csv
+│
+├── images/
+│   └── dashboard_overview.png
+│
+├── notebooks/
+│   └── 01_data_cleaning.ipynb
+│
+├── sql/
+│   ├── 01_create_tables.sql
+│   ├── 02_business_analysis.sql
+│   └── 03_tableau_view.sql
+│
+├── tableau/
+│   └── Global Electronics Sales Dashboard.twbx
+│
+└── README.md
