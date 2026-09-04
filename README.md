@@ -7,3 +7,20 @@ The project includes data cleaning with Python, SQL analysis in PostgreSQL, and 
 ## 📊 Live Dashboard
 
 [View the Interactive Tableau Dashboard](https://public.tableau.com/views/GlobalElectronicsSalesDashboard_17884941485620/GlobalElectronicsSalesDashboard)
+
+## Business Problem & Objectives
+
+The goal of this project is to analyze Global Electronics sales data and identify the main drivers of revenue, profit, customer behavior, and product performance.
+
+The analysis focuses on answering key business questions such as:
+
+- How much revenue and profit did the company generate?
+- How did sales and profit change over time?
+- Which categories, brands, and products performed best and worst?
+- Which countries and stores generated the most revenue and profit?
+- How did online sales compare with physical store sales?
+- Which customer groups generated the most revenue?
+- What was the average order value, and which customers placed the largest orders?
+- How long did online orders take to deliver?
+- Which high-revenue products had relatively low profitability?
+- What business recommendations can be made from the analysis?
